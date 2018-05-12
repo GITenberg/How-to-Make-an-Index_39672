@@ -1,0 +1,38 @@
+_repo: How-to-Make-an-Index_39672
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wheatley, Henry B. (Henry Benjamin)
+    alias: Wheatley, H. B. (Henry Benjamin)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '205'
+    url: http://www.gutenberg.org/2009/agents/205
+    wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
+description: '[1]. Historical, ch. 1. Introduction, ch. 2. Amusing and satirical indexes,
+  ch. 3. The bad indexer, ch. 4. The good indexer -- [2]. Practical, ch. 5. Different
+  classes of indexes, ch. 6. General rules for alphabetical indexes, ch. 7. How to
+  set about an index, ch. 8. General or univesal index.'
+gutenberg_issued: '2012-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39672'
+  lccn: '02021245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cataloging -- Great Britain'
+- !lcsh 'Errors and blunders, Literary'
+- !lcc 'Z'
+- !lcsh 'Indexing -- Great Britain'
+tableOfContents: 'In 2 parts: (1) Historical: Introduction. Amusing and satirical
+  indexes. The bad indexer. The good indexer -- (2) Practical: Different classes of
+  indexes. General rules for alphabetical indexes. How to set about an index. General
+  or univesal index.'
+title: How to Make an Index
+url: http://www.gutenberg.org/ebooks/39672
